@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = C:\\Users\\cleme\\vie\\Code\\informatique\\exercice\\go-fullstack\\backend
+	url = https://github.com/YalphaFR/go-fullstack-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = C:\\Users\\cleme\\vie\\Code\\informatique\\exercice\\go-fullstack\\frontend
+	url = https://github.com/YalphaFR/go-fullstack-frontend.git
