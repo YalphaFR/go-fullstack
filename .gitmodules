@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = C:\\Users\\cleme\\vie\\Code\\informatique\\exercice\\go-fullstack\\backend
+[submodule "frontend"]
+	path = frontend
+	url = C:\\Users\\cleme\\vie\\Code\\informatique\\exercice\\go-fullstack\\frontend
